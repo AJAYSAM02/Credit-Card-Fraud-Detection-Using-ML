@@ -1,7 +1,7 @@
 # Credit-Card-Fraud-Detection-Using-ML
 
-In this machine learning project, we solve the problem of detecting credit card fraud transactions using machine numpy, scikit learn, and few other python libraries.
-Link for the dataset: https://www.kaggle.com/mlg-ulb/creditcardfraud
+In this machine learning project, we solve the problem of detecting credit card fraud transactions using machine numpy, scikit learn, and few other python libraries.\n
+Link for the dataset: https://www.kaggle.com/mlg-ulb/creditcardfraud \n
 Programming Language used: Python 3
 Libraries and frameworks used:
 - Numpy
